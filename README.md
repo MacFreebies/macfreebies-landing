@@ -1,4 +1,4 @@
-# MacFreebies
+# [MacFreebies](https://macfreebies.github.io/macfreebies-landing/)
 
 ✨ **Free & Open-Source macOS Apps**  
 MacFreebies is a community-driven initiative that brings together free and open-source macOS applications in one place.  
